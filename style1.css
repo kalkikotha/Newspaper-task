@@ -1,0 +1,27 @@
+#heading {
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    text-align: center;
+}
+
+#headtitle {
+    font-size: 100px;
+    text-align: center;
+}
+
+#mainart {
+    display: flex;
+    justify-content: space-between;
+}
+
+p.tag {
+    position: absolute;
+}
+
+.col-4 {
+    text-align: justify;
+}
+
+#bottommg {
+    border-bottom: 2px solid black;
+}
